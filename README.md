@@ -1,4 +1,5 @@
 # Patika Python Projeleri
+
 [patika.dev](https://www.patika.dev) 
 Patika tarafından verilen Python Projeleri
 ## Proje 1
